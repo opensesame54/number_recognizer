@@ -34,11 +34,3 @@ while os.path.isfile(f"images/imag_{image_number}.png"):
         print("invalid")
     finally:
         image_number+=1
-
-
-
-
-
-
-
-
